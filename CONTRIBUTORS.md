@@ -91,3 +91,7 @@
 #### Name: [Gerald Halomoan Samosir](https://github.com/geraldsamosir)
  - Place: Jakarta, Indonesia
  - GitHub: [geraldsamsoir](https://github.com/geraldsamosir)
+
+#### Name: [Nemanja Jeremic](https://github.com/nemanjajeremic)
+ - Place: Belgrade, Serbia
+ - GitHub: [nemanjajeremic](https://github.com/nemanjajeremic)
