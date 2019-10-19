@@ -91,3 +91,8 @@
 #### Name: [Gerald Halomoan Samosir](https://github.com/geraldsamosir)
  - Place: Jakarta, Indonesia
  - GitHub: [geraldsamsoir](https://github.com/geraldsamosir)
+
+#### Name: [Ali Sabir](https://github.com/sabirali2560)
+ - Place: Amravati,Maharashtra, India
+ - Bio: Learning GIT
+ - Github: [sabirali2560](https://github.com/sabirali2560)
