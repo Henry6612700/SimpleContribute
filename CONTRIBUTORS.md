@@ -1,3 +1,8 @@
+#### Name: [Heagan](https://github.com/heagan)
+ - Place: Johannesburg, Gauteng, South Africa
+ - Bio: Learning how to be a project contributer
+ - GitLab: [Heagan](https://gitlab.com/heagan)
+
 #### Name: [Wilson](https://github.com/wilson-ng)
  - Place: Medan, Sumatera Utara, Indonesia
  - Bitbucket: [Wilson](https://github.com/wilson-ng)
