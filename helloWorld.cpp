@@ -1,4 +1,6 @@
-#include <iostream>
+#include<stdio.h>
+#include<conio.h>
+#include <iostream.h>
 using namespace std;
 
 int main() {
