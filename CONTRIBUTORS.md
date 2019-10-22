@@ -1,3 +1,7 @@
+#### Name: [Sneha](https://github.com/sassyec0der)
+- Place: Kanpur, Uttar Pradesh, India
+- Github: [Sneha](https://github.com/sassyec0der)
+
 #### Name: [Wilson](https://github.com/wilson-ng)
  - Place: Medan, Sumatera Utara, Indonesia
  - Bitbucket: [Wilson](https://github.com/wilson-ng)
