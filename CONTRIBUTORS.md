@@ -91,3 +91,8 @@
 #### Name: [Gerald Halomoan Samosir](https://github.com/geraldsamosir)
  - Place: Jakarta, Indonesia
  - GitHub: [geraldsamsoir](https://github.com/geraldsamosir)
+
+ #### Name: [Harsh Trivedi](https://harsh98trivedi.github.io)
+ - Place: Kanpur, India
+ - Bio: A Tech Lover Inspired by Imagination.
+ - GitHub: [harsh98trivedi](https://github.com/harsh98trivedi)
