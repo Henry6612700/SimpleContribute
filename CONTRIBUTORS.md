@@ -83,7 +83,7 @@
 #### Name: [Andreas Lukita](https://github.com/dreuia)
  - Place: Medan, Sumatera Utara, Indonesia
  - GitHub: [Andreas Lukita](https://github.com/dreuia)
- 
+
 #### Name: [Henry](https://github.com/Henry6612700)
  - Bio : Hacktoberfest
  - GitHub: [Henry](https://github.com/Henry6612700)
@@ -91,3 +91,7 @@
 #### Name: [Gerald Halomoan Samosir](https://github.com/geraldsamosir)
  - Place: Jakarta, Indonesia
  - GitHub: [geraldsamsoir](https://github.com/geraldsamosir)
+
+ #### Name: [Elloá B. Guedes](https://github.com/elloa)
+  - Place: Brazil
+  - GitHub: [elloa](https://github.com/elloa)
