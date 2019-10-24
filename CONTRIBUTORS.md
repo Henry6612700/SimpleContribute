@@ -91,3 +91,8 @@
 #### Name: [Gerald Halomoan Samosir](https://github.com/geraldsamosir)
  - Place: Jakarta, Indonesia
  - GitHub: [geraldsamsoir](https://github.com/geraldsamosir)
+
+
+ #### Name: [Raja Uzair Abdullah](https://github.com/rajauzairabdullah)
+ - Place: Karachi, Pakistan
+ - GitHub: [RajaUzairAbdullah](https://github.com/rajauzairabdullah)
