@@ -91,3 +91,7 @@
 #### Name: [Gerald Halomoan Samosir](https://github.com/geraldsamosir)
  - Place: Jakarta, Indonesia
  - GitHub: [geraldsamsoir](https://github.com/geraldsamosir)
+ 
+#### Name: [Júlia Passos](https://github.com/julia-passos)
+ - Place: São Paulo, Brasil
+ - GitHub: [julia-passos](https://github.com/julia-passos)
