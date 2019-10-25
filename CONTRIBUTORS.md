@@ -91,3 +91,7 @@
 #### Name: [Gerald Halomoan Samosir](https://github.com/geraldsamosir)
  - Place: Jakarta, Indonesia
  - GitHub: [geraldsamsoir](https://github.com/geraldsamosir)
+
+#### Name: [André Biondi Casaes](https://github.com/dedeco133)
+ - Place: São Paulo, Brazil
+ - GitHub: [Dedeco133](https://github.com/dedeco133)
