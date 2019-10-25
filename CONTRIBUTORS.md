@@ -91,3 +91,7 @@
 #### Name: [Gerald Halomoan Samosir](https://github.com/geraldsamosir)
  - Place: Jakarta, Indonesia
  - GitHub: [geraldsamsoir](https://github.com/geraldsamosir)
+
+#### Name: [Vinicius Saturnino](https://github.com/viniciussaturnino)
+ - Place: Braília, Brazil
+ - GitHub: [viniciussaturnino](https://github.com/viniciussaturnino)
