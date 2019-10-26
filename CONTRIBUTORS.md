@@ -91,3 +91,8 @@
 #### Name: [Gerald Halomoan Samosir](https://github.com/geraldsamosir)
  - Place: Jakarta, Indonesia
  - GitHub: [geraldsamsoir](https://github.com/geraldsamosir)
+
+#### Name: [Sarthik Gupta](https://github.com/sarthikg)
+ - Place: Chandigarh, India
+ - GitHub: [sarthikg](https://github.com/sarthikg)
+
