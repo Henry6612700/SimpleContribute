@@ -91,3 +91,7 @@
 #### Name: [Gerald Halomoan Samosir](https://github.com/geraldsamosir)
  - Place: Jakarta, Indonesia
  - GitHub: [geraldsamsoir](https://github.com/geraldsamosir)
+
+#### Name: [Sagarika Puri](https://github.com/SagarikaPuri)
+ - Place: Calcutta, India
+ - GitHub: [SagarikaPuri](https://github.com/SagarikaPuri)
