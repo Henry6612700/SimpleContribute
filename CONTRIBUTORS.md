@@ -91,3 +91,7 @@
 #### Name: [Gerald Halomoan Samosir](https://github.com/geraldsamosir)
  - Place: Jakarta, Indonesia
  - GitHub: [geraldsamsoir](https://github.com/geraldsamosir)
+ 
+ #### Name: [Maria Gutierrez](https://github.com/mariagutierrezm)
+ - Place: Scotland, United Kingdom
+ - GitHub: [mariagutierrezm](https://github.com/mariagutierrezm)
