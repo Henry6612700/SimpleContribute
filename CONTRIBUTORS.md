@@ -91,3 +91,8 @@
 #### Name: [Gerald Halomoan Samosir](https://github.com/geraldsamosir)
  - Place: Jakarta, Indonesia
  - GitHub: [geraldsamsoir](https://github.com/geraldsamosir)
+ 
+
+#### Name: [Rashi Singh](https://github.com/rashi3004)
+ - Place: New Delhi, India
+ - GitHub: [rashi3004](https://github.com/rashi3004)
