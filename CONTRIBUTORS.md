@@ -43,6 +43,11 @@
  - Place: Medan, Sumatera Utara, Indonesia
  - Bio: Null
 
+  #### Name: [Murakiki](https://github.com/murakiki)
+ - Place: Mandalagan, Bacolod, Philippines
+ - Bio: Null
+ - GitHub: [Roy](https://github.com/murakiki)
+
 #### Name: [Hendra](https://github.com/Hendra-Huang)
  - Place: Medan, Sumatera Utara, Indonesia
  - Bio: Hacktoberfest
