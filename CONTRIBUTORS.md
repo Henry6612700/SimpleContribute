@@ -91,3 +91,7 @@
 #### Name: [Gerald Halomoan Samosir](https://github.com/geraldsamosir)
  - Place: Jakarta, Indonesia
  - GitHub: [geraldsamsoir](https://github.com/geraldsamosir)
+ 
+#### Name: [Dhritiman Roy](https://github.com/droy312)
+ - Place: Kolkata, West Bengal, India
+ - Bitbucket: [Droy](https://github.com/droy312)
